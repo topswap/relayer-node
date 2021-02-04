@@ -2,7 +2,8 @@ type Addresses = { [key: number]: string }
 
 export const PINE_CORE_ADDRESSES: Addresses = {
   1: '0xd412054cca18a61278ced6f674a526a6940ebd84',
-  4: '0xd412054cca18a61278ced6f674a526a6940ebd84'
+  4: '0xd412054cca18a61278ced6f674a526a6940ebd84',
+  56: '0x507C81C40C50c7bD0D9fb585be2E0F9482d2bEef'
 }
 
 export const UNISWAP_V1_HANDLER_ADDRESSES: Addresses = {
@@ -12,7 +13,8 @@ export const UNISWAP_V1_HANDLER_ADDRESSES: Addresses = {
 
 export const UNISWAP_V2_HANDLER_ADDRESSES: Addresses = {
   1: '0x4b00296Eb3d6261807A6AbBA7E8244C6cBb8EC7D',
-  4: '0xbf95dd8dfbccdba150b4bc3d227a80c53acd3e0f'
+  4: '0xbf95dd8dfbccdba150b4bc3d227a80c53acd3e0f',
+  56: '0x011B49F159F3f3826F73E11E4F24b5F4c1fe2aBc'
 }
 
 export const BALANCER_HANDLER_ADDRESSES: Addresses = {
@@ -32,7 +34,8 @@ export const KYBER_HANDLER_ADDRESSES: Addresses = {
 
 export const WETH_ADDRESSES: Addresses = {
   1: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
-  4: '0xc778417e063141139fce010982780140aa0cd5ab'
+  4: '0xc778417e063141139fce010982780140aa0cd5ab',
+  56: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c'
 }
 
 export const ETH_ADDRESS = '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
